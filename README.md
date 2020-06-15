@@ -7,4 +7,4 @@ Ho seguito le lezioni durante la quarantena (inizio 2020) mediante le registrazi
 
 ## Cosa NON è sta roba
 Come ho scritto già due volte questi sono i miei **appunti** e non una guida definitiva sugli argomenti trattati, le pagine di Wikipedia su questi argomenti sono spiegate molto meglio.
-Questo repository è indirizzato principalmente ad altri studenti che seguono questo corso, ho fatto una fatica non da poco a scrivere questi appunti, spero di risparmiare del tempo a qualcuno.
+Questo repository è indirizzato principalmente ad altri studenti che seguono il corso, ho fatto una fatica non da poco a scrivere questi appunti, spero di risparmiare del tempo a qualcuno.
